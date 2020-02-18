@@ -3,7 +3,7 @@ package main
 import (
  "fmt"
 
- "github.com/k30339035/awsgolang/AWS/Utils"
+ "github.com/soy-1230/awsgolang/edit/master"
 )
 
 func main() {
